@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "titulo": "Arroz Miraflores",
+    "bajada": "Bolsa 1kg. Arroz Grado 1.",
+    "texto": "El Arroz Miraflores es una excelente alternativa para acompañar tus comidas diarias. Su textura y versatilidad lo convierten en el ingrediente ideal para preparar deliciosos platos, desde guisos y ensaladas hasta acompañamientos tradicionales. Fácil de preparar y perfecto para compartir en familia, es un producto indispensable en tu despensa.",
+    "imagenUrl": "https://cdnx.jumpseller.com/distribuidora-jose-gonzal/image/80350369/103264.jpg?1787365437",
+    "categoria": "Cereal",
+    "precio": "2000",
+    "stock": 8
+  },
+  {
+    "id": "2",
+    "titulo": "Arroz Tucapel",
+    "bajada": "Bolsa 1kg. Arroz Grado 1.",
+    "texto": "El Arroz Tucapel es una opción ideal para preparar una gran variedad de recetas en tu cocina. Su versatilidad permite utilizarlo en preparaciones como arroz primavera, guisos, ensaladas y acompañamientos para carnes o verduras. Es un producto práctico y delicioso, perfecto para disfrutar en las comidas de todos los días junto a tu familia.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/f2377339-a925-4144-b610-707e80cb75b4.e6eba09cff70d68bb559ed08171f8280.jpeg",
+    "categoria": "Cereal",
+    "precio": "1790",
+    "stock": 5
+  },
+  {
+    "id": "3",
+    "titulo": "Tallarines Lucchetti",
+    "bajada": "Bolsa 400g.",
+    "texto": "Los Tallarines Lucchetti son una alternativa deliciosa y práctica para disfrutar de tus comidas favoritas. Su formato tradicional es perfecto para preparar recetas con salsa de tomate, boloñesa, crema o verduras. Ideales para compartir en familia, permiten crear platos sabrosos y nutritivos de manera sencilla y rápida.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/a0afe1e9-2bf2-4dd4-9ede-6cdaa8fff339.51f4e5e79d47ad6b577440c19aedcd01.jpeg",
+    "categoria": "Pasta",
+    "precio": "1030",
+    "stock": 3
+  },
+  {
+    "id": "4",
+    "titulo": "Pasta al huevo Trattoria",
+    "bajada": "Bolsa 400g.",
+    "texto": "La Pasta al Huevo Trattoria es una excelente opción para quienes disfrutan de la cocina tradicional. Elaborada con huevo, ofrece una textura especial que combina perfectamente con diferentes tipos de salsas y acompañamientos. Ideal para preparar almuerzos y cenas, es perfecta para crear platos deliciosos y compartir momentos especiales en familia.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/a8eb0565-e3dc-42bb-b929-5a391340490e.6a0c9da1db8b031b2be28abd540a7e6b.jpeg",
+    "categoria": "Pasta",
+    "precio": "1250",
+    "stock": 10
+  },
+  {
+    "id": "5",
+    "titulo": "Caracoquesos Carozzi",
+    "bajada": "Caja 296g.",
+    "texto": "Los Caracoquesos Carozzi son una alternativa entretenida y sabrosa para disfrutar de un almuerzo rápido o una comida diferente. Su característica forma de caracol y su delicioso sabor a queso los convierten en una opción ideal para grandes y pequeños. Fáciles de preparar, son perfectos para acompañar con otros ingredientes o disfrutar como plato principal.",
+    "imagenUrl": "https://www.carozzimeencanta.cl/assets/img/productos/paquete-caracoquesos-carozzi.jpg",
+    "categoria": "Pasta",
+    "precio": "2080",
+    "stock": 30
+  },
+  {
+    "id": "6",
+    "titulo": "Tomate Larga Vida",
+    "bajada": "Granel Larga Vida. Precio por kilo.",
+    "texto": "El Tomate Larga Vida es una excelente alternativa para incorporar frescura y sabor a tus comidas. Su pulpa jugosa y su versatilidad lo hacen perfecto para preparar ensaladas, salsas, guisos y diferentes recetas caseras. Gracias a su buena conservación, puedes disfrutar de este producto durante más tiempo y tener siempre un ingrediente fresco disponible en tu cocina.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/46b9d5fa-18a7-4811-b6fc-a06020023142.ff218f6c075f9a5d76b51ec79a7979ea.jpeg",
+    "categoria": "Fruta",
+    "precio": "2090",
+    "stock": 20
+  },
+  {
+    "id": "7",
+    "titulo": "Lechuga Costina Bolsa",
+    "bajada": "Una. 600g aprox.",
+    "texto": "La Lechuga Costina en Bolsa es una opción fresca y saludable para complementar tus comidas diarias. Sus hojas crujientes y su sabor suave la convierten en el ingrediente perfecto para preparar ensaladas, sándwiches y acompañamientos. Su presentación en bolsa facilita su almacenamiento y permite disfrutar de una alternativa práctica para una alimentación equilibrada.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/6365cbf6-4e5a-4ba4-ad4d-17b829963dc4.0f2a91e0e6e7d908f76e2d475d83dda5.jpeg",
+    "categoria": "Verdura",
+    "precio": "1390",
+    "stock": 15
+  },
+  {
+    "id": "8",
+    "titulo": "Zanahoria Bolsa",
+    "bajada": "Bolsa 1kg.",
+    "texto": "La Zanahoria en Bolsa es un producto fresco y versátil, ideal para complementar una alimentación variada y saludable. Su sabor ligeramente dulce y su textura crujiente permiten disfrutarla tanto cruda como cocida. Es perfecta para preparar ensaladas, sopas, guisos, jugos naturales y diferentes recetas caseras. Un ingrediente esencial que no puede faltar en tu cocina.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/3b737786-d3ce-4d9a-a822-84536bc40819.b7e799bf6520357f913b4716aac93928.jpeg",
+    "categoria": "Verdura",
+    "precio": "1590",
+    "stock": 32
+  },
+  {
+    "id": "9",
+    "titulo": "Manzana Fuji Granel",
+    "bajada": "Granel Multi Marca. Precio por kilo.",
+    "texto": "La Manzana Fuji Granel de la marca Multi Marca es una opción deliciosa y saludable para tu dieta diaria. Con su sabor dulce y crujiente, esta variedad de manzana es perfecta para disfrutar sola, en ensaladas o como parte de tus recetas. Su presentación a granel permite seleccionar la cantidad deseada, garantizando frescura en cada pieza.",
+    "imagenUrl": "https://i5.walmartimages.cl/asr/e2791661-9a21-4f04-a9e6-b7d10bc3adb0.6f6c12d374c344b9d4c9ea85a12be1be.jpeg",
+    "categoria": "Fruta",
+    "precio": "2590",
+    "stock": 40
+  }
+]
